@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-aggarwal-20&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-aggarwal-20" /> </p>
 
-- 🔭 I’m currently working on **Gait Analysis based Arthritis Disease Detection**
+- 🔭 I’m currently working on **Human Identification using GAIT based Analysis**
 
 - 🌱 I’m currently learning **NLP,Pytorch**
 
