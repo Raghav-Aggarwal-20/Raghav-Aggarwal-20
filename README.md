@@ -1,15 +1,13 @@
 [![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)]
 <h1 align="center">Hi 👋, I'm Raghav Aggarwal</h1>
-<h3 align="center">An aspiring data scientist from India</h3>
+<h3 align="center">An aspiring data scientist </h3>
 <img align='right' alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-aggarwal-20&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-aggarwal-20" /> </p>
 
-- 🔭 I’m currently working on **Human Identification using GAIT based Analysis**
+- 🌱 I’m currently learning **MCP, AI Agents Integration**
 
-- 🌱 I’m currently learning **NLP,Pytorch**
-
-- 📫 How to reach me **rghaggarwal2002@gmail.com**
+- 📫 How to reach me **raggarwa@stevens.edu** or **rghaggarwal2002@gmail.com**
 
 - ⚡ Fun fact **I love to dance and play sports**
 
