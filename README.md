@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-aggarwal-20&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-aggarwal-20" /> </p>
 
-- 🌱 I’m currently learning **MCP, AI Agents Integration**
-
 - 📫 How to reach me **raggarwa@stevens.edu** or **rghaggarwal2002@gmail.com**
 
 - ⚡ Fun fact **I love to dance and play sports**
