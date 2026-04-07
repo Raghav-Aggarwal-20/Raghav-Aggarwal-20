@@ -1,23 +1,69 @@
-[![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)]
-<h1 align="center">Hi 👋, I'm Raghav Aggarwal</h1>
-<h3 align="center">An aspiring data scientist </h3>
-<img align='right' alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<a href="https://github.com/Raghav-Aggarwal-20">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=true&width=700&lines=raghav+aggarwal;data+scientist+%C2%B7+ml+engineer+%C2%B7+ai+engineer" alt="Raghav Aggarwal" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-aggarwal-20&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-aggarwal-20" /> </p>
+```
+MS Data Science — Stevens Institute of Technology — graduating May 2026
+I build ML systems that go to production, not notebooks that collect dust.
+Currently: RAG pipelines, LLM agents, deep learning for medical imaging.
+```
 
-- 📫 How to reach me **raggarwa@stevens.edu** or **rghaggarwal2002@gmail.com**
+[email](mailto:raggarwa@stevens.edu) ・ [linkedin](https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb) ・ [portfolio](#)
 
-- ⚡ Fun fact **I love to dance and play sports**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb" height="30" width="40" /></a>
+### what i've built
+
+| | problem | result | stack |
+|---|---------|--------|-------|
+| **[insurance policy Q&A agent](https://github.com/Raghav-Aggarwal-20/insurance-policy-qa-agent)** | insurance docs are dense — people can't find answers fast | two-tier RAG: local vector search for fast answers, auto-escalation to Gemini for complex cross-section analysis. safety guardrails catch sensitive topics before LLM responds | `LangChain` `ChromaDB` `Ollama/Mistral` `Gemini` `Streamlit` |
+| **[lumbar spine MRI classification](https://github.com/Raghav-Aggarwal-20/rsna-lumbar-spine-classification)** | radiologists manually review hundreds of MRI slices per patient — slow, subjective | benchmarked 5 architectures. EfficientNet-B3: **75% accuracy, 57% severe-class recall** (2× next best) with fewest params among transfer models | `PyTorch` `timm` `albumentations` `pydicom` `DICOM→2.5D` |
+| **[exam score predictor (MLOps)](https://github.com/Raghav-Aggarwal-20/ML_Project)** | demonstrate full ML lifecycle, not just a notebook | EDA → 8 models → Ridge (R²=0.88) → Flask API → Docker → GitHub Actions CI/CD → deployed on AWS EC2 via ECR | `scikit-learn` `Flask` `Docker` `GitHub Actions` `AWS` |
+| **[time series forecasting](https://github.com/Raghav-Aggarwal-20/time-series-box-jenkins)** | compare SARIMA vs automated methods on real data, analyze COVID recovery asymmetry | Box-Jenkins models beat automated ETS on both datasets. financial markets recovered from COVID in ~6mo, consumer behavior took ~24mo | `R` `forecast` `Shiny` `plotly` — [live dashboard](https://raghav123.shinyapps.io/dashboard/) |
+
+> more projects in pinned repos below. new work added regularly.
+
+---
+
+### stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,docker,aws,fastapi,flask,git,github,githubactions,postgres,mongodb,linux,vscode&perline=16" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+**also:** LangChain · ChromaDB · FAISS · Hugging Face · OpenAI API · Gemini API · XGBoost · MLflow · Pandas · NumPy · Streamlit · Tableau · Airflow
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-aggarwal-20&" alt="raghav-aggarwal-20" /></p>
+### stats
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&hide_border=true&count_private=true" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raghav-Aggarwal-20&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Raghav-Aggarwal-20&hide_border=true&background=00000000" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav-Aggarwal-20&hide_border=true" />
+  </picture>
+</p>
+
+<!-- contribution snake — auto-generated by GitHub Actions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghav-Aggarwal-20/Raghav-Aggarwal-20/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raghav-Aggarwal-20/Raghav-Aggarwal-20/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Raghav-Aggarwal-20/Raghav-Aggarwal-20/output/github-snake.svg" />
+</picture>
+
+---
+
+### recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<sub>looking for data scientist / ml engineer / ai engineer roles — open to full-time starting mid-2026. let's talk.</sub>
