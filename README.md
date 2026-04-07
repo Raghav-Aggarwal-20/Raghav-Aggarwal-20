@@ -8,7 +8,7 @@ I build ML systems that go to production, not notebooks that collect dust.
 Currently: RAG pipelines, LLM agents, deep learning for medical imaging.
 ```
 
-[email](mailto:raggarwa@stevens.edu) ・ [linkedin](https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb) ・ [portfolio](#)
+[email](mailto:rghaggarwal2002@gmail.com) ・[college email](mailto:raggarwa@stevens.edu) ・ [linkedin](https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb) ・ [portfolio](#)
 
 ---
 
@@ -28,10 +28,10 @@ Currently: RAG pipelines, LLM agents, deep learning for medical imaging.
 ### stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,docker,aws,fastapi,flask,git,github,githubactions,postgres,mongodb,linux,vscode&perline=16" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,docker,aws,fastapi,flask,git,github,githubactions,postgres,mongodb,linux,cursor,vscode&perline=16" />
 </p>
 
-**also:** LangChain · ChromaDB · FAISS · Hugging Face · OpenAI API · Gemini API · XGBoost · MLflow · Pandas · NumPy · Streamlit · Tableau · Airflow
+**also:** LangChain · Claude Code · ChromaDB · FAISS · Hugging Face · OpenAI API · Gemini API · XGBoost · MLflow · Pandas · NumPy · Streamlit · Tableau · Airflow
 
 ---
 
