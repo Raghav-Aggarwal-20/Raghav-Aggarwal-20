@@ -1,5 +1,5 @@
 <a href="https://github.com/Raghav-Aggarwal-20">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=true&width=700&lines=raghav+aggarwal;data+scientist+%C2%B7+ml+engineer+%C2%B7+ai+engineer" alt="Raghav Aggarwal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=true&width=700&lines=Raghav+Aggarwal;data+scientist+%C2%B7+ml+engineer+%C2%B7+ai+engineer" alt="Raghav Aggarwal" />
 </a>
 
 ```
