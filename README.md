@@ -28,10 +28,10 @@ Currently: RAG pipelines, LLM agents, deep learning for medical imaging.
 ### stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,docker,aws,fastapi,flask,git,github,githubactions,postgres,mongodb,linux,cursor,vscode&perline=16" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,docker,aws,fastapi,flask,git,github,githubactions,postgres,mongodb,linux,vscode&perline=16" />
 </p>
 
-**also:** LangChain · Claude Code · ChromaDB · FAISS · Hugging Face · OpenAI API · Gemini API · XGBoost · MLflow · Pandas · NumPy · Streamlit · Tableau · Airflow
+**also:** LangChain · Claude Code · Cursor · ChromaDB · FAISS · Hugging Face · OpenAI API · Gemini API · XGBoost · MLflow · Pandas · NumPy · Streamlit · Tableau · Airflow
 
 ---
 
