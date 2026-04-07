@@ -39,9 +39,9 @@ Currently: Claude Code, Agent Orchestration, RAG pipelines, LLM agents, trying t
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-zeta-79.vercel.app?username=Raghav-Aggarwal-20&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-zeta-79.vercel.app?username=Raghav-Aggarwal-20&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats-seven-zeta-79.vercel.app?username=Raghav-Aggarwal-20&show_icons=true&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://https://github-readme-stats-seven-zeta-79.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-seven-zeta-79.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" />
+    <img height="165" src="https://https://github-readme-stats-seven-zeta-79.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&hide_border=true&count_private=true" />
   </picture>
   &nbsp;&nbsp;
   <picture>
