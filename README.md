@@ -1,31 +1,31 @@
 <a href="https://github.com/Raghav-Aggarwal-20">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=true&width=700&lines=Raghav+Aggarwal;data+scientist+%C2%B7+ml+engineer+%C2%B7+ai+engineer" alt="Raghav Aggarwal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&repeat=true&width=700&lines=Raghav+Aggarwal;Data+Scientist+%C2%B7+Ml+Engineer+%C2%B7+AI+Engineer" alt="Raghav Aggarwal" />
 </a>
 
 ```
 MS Data Science — Stevens Institute of Technology — graduating May 2026
 I build ML systems that go to production, not notebooks that collect dust.
-Currently: RAG pipelines, LLM agents, deep learning for medical imaging.
+Currently: Claude Code, Agent Orchestration, RAG pipelines, LLM agents, trying to keep up with the latest tech...
 ```
 
-[email](mailto:rghaggarwal2002@gmail.com) ・[college email](mailto:raggarwa@stevens.edu) ・ [linkedin](https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb) ・ [portfolio](#)
+[Email](mailto:rghaggarwal2002@gmail.com) ・[College Email](mailto:raggarwa@stevens.edu) ・ [Linkedin](https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb) ・ [Portfolio](#)
 
 ---
 
-### what i've built
+### What I've Built
 
-| | problem | result | stack |
+| | Problem | Result | Stack |
 |---|---------|--------|-------|
-| **[insurance policy Q&A agent](https://github.com/Raghav-Aggarwal-20/insurance-policy-qa-agent)** | insurance docs are dense — people can't find answers fast | two-tier RAG: local vector search for fast answers, auto-escalation to Gemini for complex cross-section analysis. safety guardrails catch sensitive topics before LLM responds | `LangChain` `ChromaDB` `Ollama/Mistral` `Gemini` `Streamlit` |
-| **[lumbar spine MRI classification](https://github.com/Raghav-Aggarwal-20/rsna-lumbar-spine-classification)** | radiologists manually review hundreds of MRI slices per patient — slow, subjective | benchmarked 5 architectures. EfficientNet-B3: **75% accuracy, 57% severe-class recall** (2× next best) with fewest params among transfer models | `PyTorch` `timm` `albumentations` `pydicom` `DICOM→2.5D` |
-| **[exam score predictor (MLOps)](https://github.com/Raghav-Aggarwal-20/ML_Project)** | demonstrate full ML lifecycle, not just a notebook | EDA → 8 models → Ridge (R²=0.88) → Flask API → Docker → GitHub Actions CI/CD → deployed on AWS EC2 via ECR | `scikit-learn` `Flask` `Docker` `GitHub Actions` `AWS` |
-| **[time series forecasting](https://github.com/Raghav-Aggarwal-20/time-series-box-jenkins)** | compare SARIMA vs automated methods on real data, analyze COVID recovery asymmetry | Box-Jenkins models beat automated ETS on both datasets. financial markets recovered from COVID in ~6mo, consumer behavior took ~24mo | `R` `forecast` `Shiny` `plotly` — [live dashboard](https://raghav123.shinyapps.io/dashboard/) |
+| **[Insurance Policy Q&A Agent](https://github.com/Raghav-Aggarwal-20/insurance-policy-qa-agent)** | Insurance docs are dense — people can't find answers fast | Two-tier RAG: local vector search for fast answers, auto-escalation to Gemini for complex cross-section analysis. safety guardrails catch sensitive topics before LLM responds | `LangChain` `ChromaDB` `Ollama/Mistral` `Gemini` `Streamlit` |
+| **[Lumbar Spine MRI Classification](https://github.com/Raghav-Aggarwal-20/rsna-lumbar-spine-classification)** | Radiologists manually review hundreds of MRI slices per patient — slow, subjective | Benchmarked 5 architectures. EfficientNet-B3: **75% accuracy, 57% severe-class recall** (2× next best) with fewest params among transfer models | `PyTorch` `timm` `albumentations` `pydicom` `DICOM→2.5D` |
+| **[Exam Score Predictor (MLOps)](https://github.com/Raghav-Aggarwal-20/ML_Project)** | Demonstrate full ML lifecycle, not just a notebook | EDA → 8 models → Ridge (R²=0.88) → Flask API → Docker → GitHub Actions CI/CD → deployed on AWS EC2 via ECR | `scikit-learn` `Flask` `Docker` `GitHub Actions` `AWS` |
+| **[Time Series Forecasting](https://github.com/Raghav-Aggarwal-20/time-series-box-jenkins)** | Compare SARIMA vs automated methods on real data, analyze COVID recovery asymmetry | Box-Jenkins models beat automated ETS on both datasets. financial markets recovered from COVID in ~6mo, consumer behavior took ~24mo | `R` `forecast` `Shiny` `plotly` — [live dashboard](https://raghav123.shinyapps.io/dashboard/) |
 
 > more projects in pinned repos below. new work added regularly.
 
 ---
 
-### stack
+### Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,docker,aws,fastapi,flask,git,github,githubactions,postgres,mongodb,linux,vscode&perline=16" />
@@ -35,13 +35,13 @@ Currently: RAG pipelines, LLM agents, deep learning for medical imaging.
 
 ---
 
-### stats
+### Stats
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raghav-Aggarwal-20&show_icons=true&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app?username=Raghav-Aggarwal-20&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app?username=Raghav-Aggarwal-20&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app?username=Raghav-Aggarwal-20&show_icons=true&hide_border=true&count_private=true" />
   </picture>
   &nbsp;&nbsp;
   <picture>
@@ -60,7 +60,7 @@ Currently: RAG pipelines, LLM agents, deep learning for medical imaging.
 
 ---
 
-### recent activity
+### Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
