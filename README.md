@@ -8,7 +8,7 @@ I build ML systems that go to production, not notebooks that collect dust.
 Currently: Claude Code, Agent Orchestration, RAG pipelines, LLM agents, trying to keep up with the latest tech...
 ```
 
-[Email](mailto:rghaggarwal2002@gmail.com) ・[College Email](mailto:raggarwa@stevens.edu) ・ [Linkedin](https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb) ・ [Portfolio](#)
+[Email](mailto:rghaggarwal2002@gmail.com) ・ [Linkedin](https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb) ・ [Portfolio](#)
 
 ---
 
@@ -66,4 +66,4 @@ Currently: Claude Code, Agent Orchestration, RAG pipelines, LLM agents, trying t
 
 ---
 
-<sub>looking for data scientist / ml engineer / ai engineer roles — open to full-time starting mid-2026. let's talk.</sub>
+<sub>looking for data analyst/ business analyst roles — open to full-time/internships starting September 2026. let's talk.</sub>
