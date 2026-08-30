@@ -3,9 +3,8 @@
 </a>
 
 ```
-MS Data Science — Stevens Institute of Technology — graduating May 2026
-I build ML systems that go to production, not notebooks that collect dust.
-Currently: Claude Code, Agent Orchestration, RAG pipelines, LLM agents, trying to keep up with the latest tech...
+MS Data Science — Stevens Institute of Technology — May 2026
+
 ```
 
 [Email](mailto:rghaggarwal2002@gmail.com) ・ [Linkedin](https://www.linkedin.com/in/raghav-aggarwal-a4b5721bb) ・ [Portfolio](#)
